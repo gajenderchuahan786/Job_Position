@@ -1,7 +1,6 @@
 fastapi
-pydantic
-bson
 motor
-python-dotenv
-jose
 passlib
+pydantic
+python-dotenv
+uvicorn
